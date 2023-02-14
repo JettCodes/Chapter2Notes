@@ -53,3 +53,4 @@ const username= "Jett";
 var old= 123;
 //var is the old way to create variables
 //DONT USE IT. use let instead.
+
