@@ -30,3 +30,6 @@ console.log(5.3);
 console.log(math.round(5.3));
 console.log(-6.3);
 console.log(math.round(-5.3));
+
+console.log(Math.floor(3.5)); //floor always rounds down
+console.log(Math.ceil(3.5)); //ceil(ing) always rounds up
