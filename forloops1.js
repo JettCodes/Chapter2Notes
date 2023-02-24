@@ -1,5 +1,5 @@
-for (let i=0; i <= 700; i++ ){
-    if (%5==0){
-        console.log(i);
-    }
+let x = -10;
+while (x < 11) {
+    console.log(x);
+    x++;
 }

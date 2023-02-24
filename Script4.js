@@ -12,3 +12,10 @@ for (let i=0; i <= 40; i++ ){
 for (let i=0; i <= 30; i++ ){
     console.log(i**3);
 }
+//4
+for (let i=0; i <= 700; i++ ){
+    if (i%5==0){
+        console.log(i);
+    }
+}
+//5
